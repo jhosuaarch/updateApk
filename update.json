@@ -1,3 +1,8 @@
 {
-    "animeplay":{"version":1.8, "message":"Update tersedia, silahkan update aplikasi mod ke versi terbaru!", "link_downlaod":"https://www.google.com","version_code":"4142141"}
+    "animeplay": {
+        "version": "1.8",
+        "message": "Update tersedia, silahkan update aplikasi mod ke versi terbaru!",
+        "link_download": "https://www.google.com",
+        "version_code": "4142141"
+    }
 }
